@@ -1,3 +1,7 @@
 package main
 
-fmt.println("hello world")
+import "fmt"
+
+func main() {
+	fmt.Println("hellow world")
+}
